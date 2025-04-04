@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack.<br>👯 I’m looking to collaborate on any kind of projects.<br>🤝 I’m looking for help with skills to imporve<br>🌱 I’m currently learning  web development<br>💬 Ask me about my projects <br>⚡ Fun fact I want to do sometihing but i don't know what.
+🔭 I’m currently working on Full Stack.<br>👯 I’m looking to collaborate on any kind of projects.<br>🤝 I’m looking for help with skills to imporve<br>🌱 I’m currently learning  web development<br>💬 Ask me about my projects 
 
 
 ## 🌐 Socials:
